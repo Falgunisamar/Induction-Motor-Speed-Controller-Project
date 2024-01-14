@@ -1,5 +1,5 @@
 # Induction-Motor-Speed-Controller-Project
-ontrolling the speed of an induction motor typically involves using a Variable Frequency Drive (VFD) or similar control circuit.
+Controlling the speed of an induction motor typically involves using a Variable Frequency Drive (VFD) or similar control circuit.
 Hardware Components:
 
 Arduino Board (e.g., Arduino Uno)
